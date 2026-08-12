@@ -2,5 +2,5 @@
 
 ## Authors
 
-HarnessLens was created by [Cristian Camargo Filho](https://github.com/cristiancmrg)
+HarnessLens was created by [cristiancmrg](https://github.com/cristiancmrg)
 and is maintained with contributions from the HarnessLens community.
