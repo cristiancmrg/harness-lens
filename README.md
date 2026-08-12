@@ -1,4 +1,4 @@
-# harness-lens
+# HarnessLens
 
 ## Authors
 
